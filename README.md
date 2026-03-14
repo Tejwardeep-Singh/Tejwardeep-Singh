@@ -2,7 +2,7 @@
 <h3 align="center">B.Tech CSE Student | Full Stack Developer | MERN Stack</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Engineer;Building+Real+World+Projects;Open+to+Internships🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Engineer;Building+Real+World+Projects;Open+to+Internships+🚀" />
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Tejwardeep-Singh&color=blue)
