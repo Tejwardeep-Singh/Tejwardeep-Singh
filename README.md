@@ -43,34 +43,89 @@ Passionate about building real-world web applications and solving practical prob
 - Cloudinary
 
 ---
-
 ## 🚀 Projects
 
 ### 🔹 RouteRakshak
-Civic-tech platform enabling complaint management and automated ward performance ranking using Node.js, Express & MongoDB.
+A civic-tech platform designed to improve public issue reporting and transparency in local governance.
+
+<img src="screenshots/rr1.png" width="700"/>
+<img src="screenshots/rr2.png" width="700"/>
+<img src="screenshots/rr3.png" width="700"/>
+
+**Features**
+- Complaint submission and tracking system for citizens
+- Automated ward performance ranking based on reported issues
+- Admin dashboard to monitor complaints and analytics
+- Structured backend APIs for managing complaints and users
+
+**Tech Stack**
+Node.js, Express.js, MongoDB, EJS, REST APIs
+
+**Live Links**
+adminPortal - https://routerakshakadmin.onrender.com/
+citizenPortal - https://routerakshak.onrender.com/
+---
+
+### 🔹 Countdown: Grayheaven
+A Dark Story based game which unveils the dark secrets of the government as the story progresses.
+
+<img src="screenshots/cd1.png" width="700"/>
+<img src="screenshots/cd1.png" width="700"/>
+
+**Features**
+- Story-driven gameplay with atmospheric horror elements
+- Interactive environment exploration and puzzle solving
+- Designed with immersive UI and suspenseful narrative flow
+
+**Tech Stack**
+Game Engine (Unity), C#, 3D assets, Game design principles
+
+**Live Link**
+https://rawjet.itch.io/countdown-grayheaven
+
+---
 
 ### 🔹 E-Election Platform
-Secure voting platform with admin dashboard, candidate management, voting logic and result calculation.
+A secure full-stack web application that simulates an online election system with controlled voting and result management.
 
-### 🔹 Vendor Auction Platform
-Real-time bidding system connecting vendors with suppliers using Socket.IO and session authentication.
+<img src="screenshots/el1.png" width="700"/>
 
-### 🔹 RawJet
-Animated ISRO-inspired website with GSAP animations and interactive UI.
+**Features**
+- Admin panel to manage candidates and elections
+- Secure voting system with controlled authentication
+- Automatic vote counting and result calculation
+- Image upload for candidate and party symbols using Cloudinary
 
+**Tech Stack**
+React.js, Node.js, Express.js, MongoDB, Cloudinary
+
+**Live Links**
+adminPortal - https://adminrawjet.onrender.com/
+voterPortal - https://voterrawjet.onrender.com/
 ---
 
-## 📊 GitHub Stats
+### 🔹 Isro-RawJet
+An interactive ISRO-inspired website designed to present space missions and information with immersive UI and smooth animations.
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Tejwardeep-Singh&show_icons=true&theme=tokyonight" />
-</p>
+<img src="screenshots/isro1.png" width="700"/>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejwardeep-Singh&layout=compact&theme=tokyonight" />
-</p>
 
+**Features**
+- Multi-page structure including missions, updates, vision, and media
+- Advanced animations using GSAP
+- Interactive UI with mission highlights and timeline sections
+- Responsive design optimized for performance and user experience
+
+**Tech Stack**
+HTML, CSS, JavaScript, GSAP
+
+**Live Link**
+https://isroraw.netlify.app/
 ---
+
+
+
+
 
 ## 🌐 Connect With Me
 
