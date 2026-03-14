@@ -2,9 +2,10 @@
 <h3 align="center">B.Tech CSE Student | Full Stack Developer | MERN Stack</h3>
 
 <p align="center">
-Passionate about building real-world web applications and solving practical problems with technology.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Engineer;Building+Real+World+Projects;Open+to+Internships+🚀" />
 </p>
 
+![Profile Views](https://komarev.com/ghpvc/?username=Tejwardeep-Singh&color=blue)
 ---
 
 ## 🚀 About Me
@@ -37,10 +38,9 @@ Passionate about building real-world web applications and solving practical prob
 - Mongoose
 
 ### Tools
-- Git
-- GitHub
-- Postman
-- Cloudinary
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,postman,vscode" />
+</p>
 
 ---
 ## 🚀 Projects
@@ -48,9 +48,11 @@ Passionate about building real-world web applications and solving practical prob
 ### 🔹 RouteRakshak
 A civic-tech platform designed to improve public issue reporting and transparency in local governance.
 
-<img src="screenshots/rr1.png" width="700"/>
-<img src="screenshots/rr2.png" width="700"/>
-<img src="screenshots/rr3.png" width="700"/>
+<p align="center">
+<img src="screenshots/rr1.png" width="30%">
+<img src="screenshots/rr2.png" width="30%">
+<img src="screenshots/rr3.png" width="30%">
+</p>
 
 **Features**
 - Complaint submission and tracking system for citizens
@@ -69,8 +71,11 @@ citizenPortal - https://routerakshak.onrender.com/
 ### 🔹 Countdown: Grayheaven
 A Dark Story based game which unveils the dark secrets of the government as the story progresses.
 
-<img src="screenshots/cd1.png" width="700"/>
-<img src="screenshots/cd1.png" width="700"/>
+<p align="center">
+<img src="screenshots/cd1.png" width="45%">
+<img src="screenshots/cd2.png" width="45%">
+
+</p>
 
 **Features**
 - Story-driven gameplay with atmospheric horror elements
@@ -125,7 +130,15 @@ https://isroraw.netlify.app/
 
 
 
+## 📊 GitHub Stats
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Tejwardeep-Singh&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejwardeep-Singh&layout=compact&theme=tokyonight" />
+</p>
 
 ## 🌐 Connect With Me
 
