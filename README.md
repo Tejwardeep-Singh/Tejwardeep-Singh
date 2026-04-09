@@ -42,7 +42,6 @@
 
 > 🧠 A real-world civic-tech platform designed to bridge the gap between citizens and local governance through structured issue reporting and data-driven transparency.
 
----
 
 ### ⚡ Key Highlights
 
@@ -52,7 +51,7 @@
 * 🔄 Implemented **structured REST APIs** for scalable data handling
 * 📍 Enabled **location-based complaint categorization**
 
----
+
 
 ### 🏗️ Engineering Focus
 
@@ -61,7 +60,7 @@
 * 🔐 Session-based authentication for controlled access
 * 📡 Designed keeping **real-world deployment constraints** in mind
 
----
+
 
 ### 🌍 Impact
 
@@ -69,13 +68,13 @@
 * 📈 Enables data-driven decision making for authorities
 * 👥 Empowers citizens with structured complaint tracking
 
----
+
 
 ### 🛠️ Tech Stack
 
 `Node.js` • `Express.js` • `MongoDB` • `EJS` • `REST APIs`
 
----
+
 
 ### 🔗 Live Platforms
 
@@ -84,10 +83,10 @@
 
 ### Team
 
-Tejwardeep Singh (Team Lead)
-Eklavya
-Snehdeep Kaur
-Aemryne Sandhu
+* Tejwardeep Singh (Team Lead)
+* Eklavya
+* Snehdeep Kaur
+* Aemryne Sandhu
 ---
 
 
@@ -99,7 +98,7 @@ Aemryne Sandhu
 
 > 🔐 A full-stack election system designed to simulate real-world voting workflows with a focus on **security, data integrity, and controlled access**.
 
----
+
 
 ### ⚡ Key Highlights
 
@@ -109,7 +108,6 @@ Aemryne Sandhu
 * 📊 Automated **real-time vote counting and result generation**
 * ☁️ Integrated **Cloudinary** for secure media storage (candidate & party assets)
 
----
 
 ### 🏗️ Engineering Focus
 
@@ -118,7 +116,7 @@ Aemryne Sandhu
 * 🔄 REST APIs optimized for **reliability and scalability**
 * 🚫 Prevented duplicate voting using **session & validation logic**
 
----
+
 
 ### 🌍 Impact
 
@@ -126,13 +124,13 @@ Aemryne Sandhu
 * 🔐 Demonstrates secure handling of sensitive workflows
 * 📈 Showcases backend logic for **high-integrity systems**
 
----
+
 
 ### 🛠️ Tech Stack
 
 `React.js` • `Node.js` • `Express.js` • `MongoDB` • `Cloudinary`
 
----
+
 
 ### 🔗 Live Platforms
 
@@ -150,7 +148,7 @@ Aemryne Sandhu
 
 > 🚀 A high-performance, animation-driven web experience inspired by ISRO, designed to deliver **immersive storytelling through advanced frontend engineering**.
 
----
+
 
 ### ⚡ Key Highlights
 
@@ -160,7 +158,7 @@ Aemryne Sandhu
 * 📱 Developed a fully **responsive UI optimized across devices**
 * ✨ Focused on **user experience with cinematic visual flow**
 
----
+
 
 ### 🏗️ Engineering Focus
 
@@ -169,7 +167,7 @@ Aemryne Sandhu
 * 🎬 Managed complex animation sequences using **GSAP timelines**
 * 🚀 Ensured fast load times with **efficient asset handling**
 
----
+
 
 ### 🌍 Impact
 
@@ -177,13 +175,13 @@ Aemryne Sandhu
 * 🎯 Demonstrates strong **frontend engineering & UI/UX skills**
 * ⚡ Showcases ability to build **production-level interactive websites**
 
----
+
 
 ### 🛠️ Tech Stack
 
 `HTML` • `CSS` • `JavaScript` • `GSAP`
 
----
+
 
 ### 🌐 Live Demo
 
@@ -243,8 +241,8 @@ Aemryne Sandhu
 
 ### Developers
 
-Tejwardeep Singh - Developer
-Snehdeep Kaur - Story Writer
+* Tejwardeep Singh - Developer
+* Snehdeep Kaur - Story Writer
 --- 
 
 ## 🌐 Connect With Me
