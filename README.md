@@ -16,8 +16,15 @@
 * 🎓 B.Tech Computer Science (2024–2028)
 * 💻 Full Stack Developer (MERN Stack)
 * 🚀 Building real-world scalable applications
-* ⚙️ Learning backend systems & system design
-* 🎯 Goal: Crack top product-based companies
+* ⚙️ Focused on backend engineering, scalable systems, and impactful product development
+
+---
+## 🚀 Current Focus
+
+* 📚 Advanced Data Structures & Algorithms (C++)
+* ⚡ Backend Engineering & System Design
+* 🔄 Real-Time Architectures & Scalable APIs
+* 🧠 Building production-oriented full stack systems
 
 ---
 
@@ -81,6 +88,10 @@
 * 🧑‍💼 Admin Portal → https://routerakshakadmin.onrender.com/
 * 👤 Citizen Portal → https://routerakshak.onrender.com/
 
+### Github Repo
+
+* link - https://github.com/Tejwardeep-Singh/RouteRakshak
+
 ### Team
 
 * Tejwardeep Singh (Team Lead)
@@ -137,6 +148,9 @@
 * 🧑‍💼 Admin Portal → https://adminrawjet.onrender.com/
 * 👤 Voter Portal → https://voterrawjet.onrender.com/
 
+### Github Repo
+
+* link- https://github.com/Tejwardeep-Singh/E-ELECTION-RAWJET
 ---
 
 
@@ -187,6 +201,10 @@
 
 🔗 https://isroraw.netlify.app/
 
+### Github Repo
+
+* link - https://github.com/Tejwardeep-Singh/ISRO
+
 ---
 
 ### 4. Countdown: Grayheaven — Narrative Horror Experience
@@ -236,6 +254,10 @@
 ### 🎮 Play / Download
 
 🔗 https://rawjet.itch.io/countdown-grayheaven
+
+### Github Repo
+
+* link - https://github.com/Tejwardeep-Singh/countdown-grayheaven
 
 ---
 
