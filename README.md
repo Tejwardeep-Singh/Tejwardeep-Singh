@@ -60,12 +60,12 @@
 
 
 
-### 🏗️ Engineering Focus
+<!-- ### 🏗️ Engineering Focus
 
 * ⚙️ Backend architecture designed for **scalability and modularity**
 * 🧠 Data modeling for **efficient query performance (MongoDB)**
 * 🔐 Session-based authentication for controlled access
-* 📡 Designed keeping **real-world deployment constraints** in mind
+* 📡 Designed keeping **real-world deployment constraints** in mind -->
 
 
 
@@ -120,12 +120,12 @@
 * ☁️ Integrated **Cloudinary** for secure media storage (candidate & party assets)
 
 
-### 🏗️ Engineering Focus
+<!-- ### 🏗️ Engineering Focus
 
 * ⚙️ Designed backend workflows to ensure **data consistency during voting**
 * 🧠 Structured MongoDB schema for **efficient vote aggregation**
 * 🔄 REST APIs optimized for **reliability and scalability**
-* 🚫 Prevented duplicate voting using **session & validation logic**
+* 🚫 Prevented duplicate voting using **session & validation logic** -->
 
 
 
@@ -174,12 +174,12 @@
 
 
 
-### 🏗️ Engineering Focus
+<!-- ### 🏗️ Engineering Focus
 
 * ⚡ Optimized rendering for **smooth animations without performance drops**
 * 🧠 Structured frontend for **maintainability and scalability**
 * 🎬 Managed complex animation sequences using **GSAP timelines**
-* 🚀 Ensured fast load times with **efficient asset handling**
+* 🚀 Ensured fast load times with **efficient asset handling** -->
 
 
 
@@ -228,12 +228,12 @@
 
 ---
 
-### 🏗️ Engineering Focus
+<!-- ### 🏗️ Engineering Focus
 
 * ⚙️ Implemented gameplay logic using **C# scripting in Unity**
 * 🧠 Designed modular systems for **scene transitions and interactions**
 * 🎮 Managed game states for **smooth progression and continuity**
-* 🎬 Balanced performance and visuals for **consistent gameplay experience**
+* 🎬 Balanced performance and visuals for **consistent gameplay experience** -->
 
 ---
 
