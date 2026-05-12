@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tejwardeep Singh</h1>
+<h1 align="center">Hi , I'm Tejwardeep Singh</h1>
 <h3 align="center">Full Stack Developer • MERN Stack • Building Scalable Web Applications</h3>
 
 <p align="center">
