@@ -86,15 +86,15 @@
 
 ---
 
-### 📈 Activity & Insights
+<!-- ### 📈 Activity & Insights
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Tejwardeep-Singh&show_icons=true&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true" width="49%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tejwardeep-Singh&theme=nightowl&hide_border=true" width="49%" />
-</p>
+</p> -->
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1a1b27&height=100&section=header&text=You%20are%20your%20own%20first%20enemy.&fontSize=30&fontColor=00F7FF&animation=fadeIn" width="80%"/>
 </p>
 
 <p align="center">
