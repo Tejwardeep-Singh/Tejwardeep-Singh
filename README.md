@@ -15,6 +15,11 @@
 
 ---
 
+### 🛡️ Professional Summary
+Highly motivated **B.Tech Computer Science student (2024-2028)** with a deep focus on **Full-Stack development**. I specialize in creating scalable backend architectures using the **MERN stack** and interactive 3D environments. My engineering philosophy revolves around solving real-world civic and security problems through code.
+
+---
+
 ### ⚡ Technical Arsenal
 
 <table width="100%">
@@ -86,17 +91,30 @@
 
 ---
 
-<!-- ### 📈 Activity & Insights
+### 🏆 Recognitions & Milestones
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Tejwardeep-Singh&theme=tokyonight&no-bg=true&margin-w=15&column=4" width="100%" />
+</p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tejwardeep-Singh&show_icons=true&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tejwardeep-Singh&theme=nightowl&hide_border=true" width="49%" />
-</p> -->
+---
+
+### 📈 Metrics & Consistency
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=1a1b27&height=100&section=header&text=You%20are%20your%20own%20first%20enemy.&fontSize=30&fontColor=00F7FF&animation=fadeIn" width="80%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Tejwardeep-Singh&show_icons=true&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tejwardeep-Singh&theme=nightowl&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejwardeep-Singh&layout=compact&theme=nightowl&hide_border=true" width="70%" />
+</p>
+
+---
+
+<p align="center">
+  <br>
+  <kbd><b>"You are your own first enemy."</b></kbd>
+  <br>
+  <br>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=00F7FF&height=30&section=footer&fontSize=20" width="100%"/>
 </p>
