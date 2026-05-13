@@ -94,9 +94,7 @@
 </p> -->
 
 <p align="center">
-  <br>
-  <kbd><b>"You are your own first enemy."</b></kbd>
-  <br>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1a1b27&height=100&section=header&text=You%20are%20your%20own%20first%20enemy.&fontSize=30&fontColor=00F7FF&animation=fadeIn" width="80%"/>
 </p>
 
 <p align="center">
