@@ -48,7 +48,7 @@
       <a href="https://routerakshak.onrender.com/">🔗 Live Demo</a> • <a href="https://github.com/Tejwardeep-Singh/RouteRakshak">💻 Codebase</a>
     </td>
     <td width="50%" valign="top">
-      <h3>🗳️ E-Election RAWJET</h3>
+      <h3>🗳️ Bharat Ballot</h3>
       <p><i>High-Integrity Voting System</i></p>
       <img src="screenshots/el1.png" width="100%" style="border-radius:10px;"/>
       <br><br>
