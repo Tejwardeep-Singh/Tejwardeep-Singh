@@ -49,7 +49,7 @@
     </td>
     <td width="50%" valign="top">
       <h3>🗳️ Bharat Ballot</h3>
-      <p><i>High-Integrity Voting System</i></p>
+      <p><i>High-Integrity Voting System.</i></p>
       <img src="screenshots/el1.png" width="100%" style="border-radius:10px;"/>
       <br><br>
       <b>Focus:</b> Security & Real-time data consistency.<br>
