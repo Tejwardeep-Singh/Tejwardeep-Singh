@@ -21,11 +21,11 @@
   <tr>
     <td width="50%" valign="top">
       <h4>💻 Development</h4>
-      <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,html,css,cpp,cs" />
+      <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,html,css,cpp" />
     </td>
     <td width="50%" valign="top">
       <h4>🛠️ Tools & Environments</h4>
-      <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,unity,vercel,netlify" />
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,unity,netlify" />
     </td>
   </tr>
 </table>
