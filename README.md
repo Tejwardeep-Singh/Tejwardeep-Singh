@@ -3,8 +3,11 @@
 </p>
 
 <p align="center">
-  <b>Full Stack Engineer • MERN Specialist • System Architecture Enthusiast</b><br>
-  <i>Building high-integrity systems and immersive digital experiences.</i>
+  <b>Student Developer • Full Stack Web Developer • Unity Developer</b><br>
+  <i>Building scalable applications, immersive experiences, and continuously improving through code.</i>
+</p>
+<p align="center">
+🏆 Semi-Finalist – Cosmo Hacks • Finalist – Hack for Green Bharat • Presenter – National Conference on Viksit Amritsar
 </p>
 
 <p align="center">
@@ -13,90 +16,158 @@
   <a href="https://github.com/Tejwardeep-Singh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
+--- 
+## 👨‍💻 About Me
+
+Computer Science Engineering student passionate about full-stack web development, backend systems, and game development.
+
+Currently focused on building real-world MERN applications, improving problem-solving skills through DSA, and creating interactive digital experiences.
+
 ---
 
-### ⚡ Technical Arsenal
+## ⚡ Technical Arsenal
 
-<table width="100%">
+<table width="100%" align='center'>
   <tr>
     <td width="50%" valign="top">
-      <h4>💻 Development</h4>
-      <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,html,css,cpp,c,py" />
+      <h4>🎨 Frontend</h4>
+      <img src="https://skillicons.dev/icons?i=react,js,html,css" />
     </td>
     <td width="50%" valign="top">
-      <h4>🛠️ Tools & Environments</h4>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,unity,netlify,blender" />
+      <h4>⚙️ Backend & Database</h4>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🧠 Programming Languages</h4>
+      <img src="https://skillicons.dev/icons?i=cpp,c,py,js" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>🛠️ Tools & Platforms</h4>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify" />
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2" align="center">
+      <h4>🎮 Creative & Game Development</h4>
+      <img src="https://skillicons.dev/icons?i=unity,blender" />
     </td>
   </tr>
 </table>
 
+
 ---
 
-### 🚀 Featured Engineering Projects
+## 🚀 Featured Projects
 
 <table width="100%">
-  <!-- Row 1 -->
   <tr>
     <td width="50%" valign="top">
-      <h3>🛡️ RouteRakshak</h3>
-      <p><i>Civic Intelligence Platform</i></p>
-      <img src="screenshots/rr1.png" width="100%" style="border-radius:10px;"/>
-      <br><br>
-      <b>Focus:</b> Scalable backend & lifecycle management.<br>
-      <b>Stack:</b> <code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>EJS</code>
-      <br><br>
-      <a href="https://routerakshak.onrender.com/">🔗 Live Demo</a> • <a href="https://github.com/Tejwardeep-Singh/RouteRakshak">💻 Codebase</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🗳️ Bharat Ballot</h3>
-      <p><i>High-Integrity Voting System.</i></p>
-      <img src="screenshots/el1.png" width="100%" style="border-radius:10px;"/>
-      <br><br>
-      <b>Focus:</b> Security & Real-time data consistency.<br>
-      <b>Stack:</b> <code>React.js</code> <code>Node.js</code> <code>MongoDB</code> <code>Cloudinary</code>
-      <br><br>
-      <a href="https://voterrawjet.onrender.com/">🔗 Live Demo</a> • <a href="https://github.com/Tejwardeep-Singh/E-ELECTION-RAWJET">💻 Codebase</a>
-    </td>
-  </tr>
-  
-  <!-- Row 2 -->
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚀 ISRO RawJet</h3>
-      <p><i>Interactive Exploration Engine</i></p>
-      <img src="screenshots/isro1.png" width="100%" style="border-radius:10px;"/>
-      <br><br>
-      <b>Focus:</b> Advanced UI/UX & GSAP animations.<br>
-      <b>Stack:</b> <code>JavaScript</code> <code>GSAP</code> <code>Performance Optimization</code>
-      <br><br>
-      <a href="https://isroraw.netlify.app/">🔗 Live Demo</a> • <a href="https://github.com/Tejwardeep-Singh/ISRO">💻 Codebase</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌑 Countdown: Grayheaven</h3>
-      <p><i>Narrative Horror Experience</i></p>
-      <img src="screenshots/cd1.png" width="100%" style="border-radius:10px;"/>
-      <br><br>
-      <b>Focus:</b> Game logic & 3D Atmospheric Storytelling.<br>
-      <b>Stack:</b> <code>Unity</code> <code>C#</code> <code>Experience Design</code>
-      <br><br>
-      <a href="https://rawjet.itch.io/countdown-grayheaven">🔗 Play Game</a> • <a href="https://github.com/Tejwardeep-Singh/countdown-grayheaven">💻 Codebase</a>
-    </td>
-  </tr>
+
+### 🗳️ Bharat Ballot
+
+*Online Voting Management System*
+
+<img src="screenshots/el1.png" width="100%" />
+
+**Key Features**
+
+* Secure voter authentication
+* Candidate management system
+* Real-time vote tracking
+* Cloudinary image integration
+* Responsive React interface
+
+**Tech Stack**
+`React.js` `Node.js` `Express.js` `MongoDB` `Cloudinary`
+
+🔗 Live Demo • 💻 Source Code
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🛡️ RouteRakshak
+
+*Road Safety & Complaint Management Platform*
+
+<img src="screenshots/rr1.png" width="100%" />
+
+**Key Features**
+
+* Complaint reporting system
+* User authentication & authorization
+* Issue tracking dashboard
+* MongoDB data management
+* Backend-focused architecture
+
+**Tech Stack**
+`Node.js` `Express.js` `MongoDB` `EJS`
+
+🔗 Live Demo • 💻 Source Code
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🚀 ISRO RawJet
+
+*Interactive ISRO Exploration Website*
+
+<img src="screenshots/isro1.png" width="100%" />
+
+**Key Features**
+
+* GSAP-powered animations
+* Interactive mission showcase
+* Responsive modern UI
+* Optimized frontend performance
+* Educational space content
+
+**Tech Stack**
+`JavaScript` `GSAP` `HTML` `CSS`
+
+🔗 Live Demo • 💻 Source Code
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌑 Countdown: Grayheaven
+
+*3D Horror Game Experience*
+
+<img src="screenshots/cd1.png" width="100%" />
+
+**Key Features**
+
+* Story-driven horror gameplay
+* 3D environment design
+* Custom game mechanics
+* Atmospheric visual effects
+* Built with Unity Engine
+
+**Tech Stack**
+`Unity` `C#` `Blender`
+
+🔗 Play Game • 💻 Source Code
+
+</td>
+</tr>
 </table>
 
 ---
+## 🌟 Beyond Code
 
-<!-- ### 📈 Activity & Insights
+Alongside software development, I enjoy creative storytelling and long-form writing.
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tejwardeep-Singh&show_icons=true&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tejwardeep-Singh&theme=nightowl&hide_border=true" width="49%" />
-</p> -->
+📖 Author of *Before Silence* — a science fiction thriller exploring technology, society, and human behavior.
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=1a1b27&height=100&section=header&text=You%20are%20your%20own%20first%20enemy.&fontSize=30&fontColor=00F7FF&animation=fadeIn" width="80%"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00F7FF&height=30&section=footer&fontSize=20" width="100%"/>
-</p>
+I believe both programming and storytelling share a common goal:
+turning complex ideas into experiences that people can understand and connect with.
+---
