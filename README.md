@@ -6,57 +6,55 @@
   <b>Student Developer • Full Stack Web Developer • Unity Developer</b><br>
   <i>Building scalable applications, immersive experiences, and continuously improving through code.</i>
 </p>
-<p align="center">
-🏆 Semi-Finalist – Cosmo Hacks • Finalist – Hack for Green Bharat • Presenter – National Conference on Viksit Amritsar
-</p>
+
 
 <p align="center">
   <a href="https://linkedin.com/in/tejwardeep-singh"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://rawjet.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://github.com/Tejwardeep-Singh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:tejwardeep@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 </p>
 
 --- 
 ## 👨‍💻 About Me
 
 Computer Science Engineering student passionate about full-stack web development, backend systems, and game development.
-
 Currently focused on building real-world MERN applications, improving problem-solving skills through DSA, and creating interactive digital experiences.
+
+<p align="center">
+🏆 Semi-Finalist – Cosmo Hacks • Finalist – Hack for Green Bharat • Presenter – National Conference on Viksit Amritsar
+</p>
 
 ---
 
 ## ⚡ Technical Arsenal
 
-<table width="100%" align='center'>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🎨 Frontend</h4>
-      <img src="https://skillicons.dev/icons?i=react,js,html,css" />
-    </td>
-    <td width="50%" valign="top">
-      <h4>⚙️ Backend & Database</h4>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-    </td>
-  </tr>
+<h3 align="center">🎨 Frontend</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,js,html,css" />
+</p>
 
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🧠 Programming Languages</h4>
-      <img src="https://skillicons.dev/icons?i=cpp,c,py,js" />
-    </td>
-    <td width="50%" valign="top">
-      <h4>🛠️ Tools & Platforms</h4>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify" />
-    </td>
-  </tr>
+<h3 align="center">⚙️ Backend & Database</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
 
-  <tr>
-    <td colspan="2" align="center">
-      <h4>🎮 Creative & Game Development</h4>
-      <img src="https://skillicons.dev/icons?i=unity,blender" />
-    </td>
-  </tr>
-</table>
+<h3 align="center">🧠 Programming Languages</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,c,py,js" />
+</p>
+
+<h3 align="center">🛠️ Tools & Platforms</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify" />
+</p>
+
+<h3 align="center">🎮 Creative & Game Development</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=unity,blender" />
+</p>
 
 
 ---
